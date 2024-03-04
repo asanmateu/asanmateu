@@ -1,5 +1,7 @@
 <h3>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Toni!</h3> 
+
 ---
+
 <p>
   <a href="https://www.linkedin.com/in/antonio-sanmateu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/t_sanma" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
