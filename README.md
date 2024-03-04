@@ -79,6 +79,7 @@ Design:
 ---
 
 ### 🌱 I’m currently learning
+
 * [Serverless LLM Apps Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation)
 * [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
