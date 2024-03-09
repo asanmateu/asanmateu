@@ -48,7 +48,7 @@ Storage:
 ![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA.svg?style=for-the-badge&logo=Milvus&logoColor=white)
 
-Containerization:
+Containers:
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
