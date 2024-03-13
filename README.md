@@ -13,13 +13,6 @@ In my **current position** at [Kertos](https://kertos.io/), I will implement sca
 
 In my **previous role**, I contributed to the development of APIs and the Orders & Payments microservices at [JOOR](https://www.joor.com/)'s luxury fashion B2B marketplace.
 
----
-
-### 🌱 I’m currently learning
-
-* [Serverless LLM Apps Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation)
-* [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
-* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
 
 ---
   
@@ -36,6 +29,14 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 | Analysis | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Lens K8s](https://img.shields.io/badge/Lens-3D90CE.svg?style=for-the-badge&logo=Lens&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white) |
 | Security | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white) |
 | Design | ![Miro](https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white) |
+
+---
+
+### 🌱 I’m currently learning
+
+* [Serverless LLM Apps Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation)
+* [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
+* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
 
 <!--
 Languages:
