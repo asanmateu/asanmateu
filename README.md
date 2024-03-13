@@ -23,7 +23,7 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 ---
   
-### 🧰 This is my toolbox...
+### 🧰 This is my toolbox
 
 |  | Technologies |
 | ------------- | ----------- |
