@@ -17,8 +17,6 @@ In my **previous role**, I contributed to the development of APIs and the Orders
   
 ### 🧰 This is my toolbox...
 
-These are some of the technologies I have been working with over the past couple of years both at the office and on my personal projects.
-
 |  | Technologies |
 | ------------- | :-----------: |
 | Languages  | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=Jinja&logoColor=white) |
