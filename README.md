@@ -32,10 +32,10 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 ### 🌱 I’m currently learning
 
-* [Serverless LLM Apps Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation) ☁︎
+* [Serverless LLM Apps Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation)
 * [Build an LLM Graph RAG Chatbot With LangChain & Neo4j](https://realpython.com/build-llm-rag-chatbot-with-langchain/?utm_source=notification_summary&utm_medium=email&utm_campaign=2024-03-06) 🤖
 * [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
-* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 💎
+* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
 
 
 <!--
