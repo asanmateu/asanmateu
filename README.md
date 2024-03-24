@@ -36,6 +36,8 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 <!--
 
+<a href="https://www.linkedin.com/in/antonio-sanmateu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 * [Serverless LLM Apps with Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-LLM-apps-amazon-bedrock/lesson/6/event-driven-generation)
 * [Build an LLM Graph RAG Chatbot with LangChain & Neo4j](https://realpython.com/build-llm-rag-chatbot-with-langchain/?utm_source=notification_summary&utm_medium=email&utm_campaign=2024-03-06) 🤖
 
