@@ -32,7 +32,7 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 ### 🌱 I’m currently learning
 
-* [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag)
+* [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag) 🤖
 * [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
 
