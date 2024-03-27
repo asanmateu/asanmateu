@@ -29,6 +29,7 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 ### 🌱 I’m currently learning
 
+* [Efficiently Serving LLMs](https://learn.deeplearning.ai/courses/efficiently-serving-llms/lesson/1/introduction) 
 * [Building and Evaluating Advanced RAG](https://learn.deeplearning.ai/courses/building-evaluating-advanced-rag) 🤖
 * [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
