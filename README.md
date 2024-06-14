@@ -30,7 +30,7 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 ### 🌱 I’m currently learning
 
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es)
-* [Async IO in Python](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
+* [Concurrency and parallelism in Python](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
 * [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) 🍓
 
 <!--
