@@ -31,8 +31,8 @@ In my **previous role**, I contributed to the development of APIs and the Orders
 
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
 * [Designing Data Intensive Applications (Software Architecture)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚙️
-* [React front-end development best practices](https://www.oreilly.com/library/view/fluent-react/9781098138707/) ⚛️
-* [Concurrency and parallelism in Python](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
+* [React Best Practices (Front-end Development](https://www.oreilly.com/library/view/fluent-react/9781098138707/) ⚛️
+* [Concurrency and Parallelism in Python (Software Performance)](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
 * [Making Embedded Systems: Design Patterns for Great Software (Internet of Things)](https://www.amazon.de/dp/1098151542?ref=ppx_yo2ov_dt_b_fed_asin_title) 🦾
 
 <!--
