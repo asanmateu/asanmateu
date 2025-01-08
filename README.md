@@ -4,7 +4,7 @@
 
 ---
 
-I'm an AI Software Engineer specializing in Python 🐍
+I'm a Software Engineer specializing in Python 🐍
 
 In my **current position** at [Kertos](https://kertos.io/), I implement full-stack scalable AI-powered features within a start-up product that automates data privacy and information security compliance operations. 
 
