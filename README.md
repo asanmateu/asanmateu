@@ -8,8 +8,7 @@ I am a Software Engineer specializing in Python 🐍
 
 In my **current position** at [Kertos](https://kertos.io/), I implement scalable AI-powered features within a product that automates data privacy and information security compliance operations. 
 
-In my **previous role**, I contributed to the development of APIs and the Orders & Payments microservices at [JOOR](https://www.joor.com/)'s luxury fashion B2B marketplace.
-
+In my **previous role** at [JOOR](https://www.joor.com/)'s luxury fashion B2B marketplace, I contributed to the development of APIs and the Orders & Payments microservices.
 
 ---
   
