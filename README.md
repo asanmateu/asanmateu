@@ -28,7 +28,7 @@ In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashio
 
 ### 🌱 I’m currently learning
 
-* [LLM Engineering](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) 🤖
+* [LLM Engineering (Generative AI)](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) 🤖
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
 * [Designing Data Intensive Applications (Software Architecture)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
 * [React Best Practices (Front-end Development)](https://www.oreilly.com/library/view/fluent-react/9781098138707/) ⚛️
