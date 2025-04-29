@@ -28,11 +28,11 @@ In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashio
 
 ### 🌱 I’m currently learning
 
-* [LLM Engineering (Generative AI)](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) 🤖
-* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
+
+* [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) 🔐
+* [OSQuery Multi-platform Agents](https://osquery.readthedocs.io/en/latest/) 🔍
 * [Designing Data Intensive Applications (Software Architecture)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
-* [React Best Practices (Front-end Development)](https://www.oreilly.com/library/view/fluent-react/9781098138707/) ⚛️
-* [Concurrency and Parallelism in Python (Software Performance)](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
+* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
 * [Survival Techniques using Arduino & Raspberry Pi (Internet of Things)](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🦾
 
 <!--
@@ -67,7 +67,11 @@ Design:
 
 <!--
 ### 🛠️ I'm currently developing
+* [LLM Engineering (Generative AI)](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867711#overview) 🤖
+* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
 
+* [React Best Practices (Front-end Development)](https://www.oreilly.com/library/view/fluent-react/9781098138707/) ⚛️
+* [Concurrency and Parallelism in Python (Software Performance)](https://realpython.com/async-io-python/#setting-up-your-environment) 🧵
 * 
 -->
 
