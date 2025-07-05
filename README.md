@@ -32,10 +32,10 @@ In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashio
 * [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) 🔐
 * [OSQuery Multi-platform Agents](https://osquery.readthedocs.io/en/latest/) 🔍
 * [Designing Data Intensive Applications (Software Architecture)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
-* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
-* [Survival Techniques using Arduino & Raspberry Pi (Internet of Things)](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🦾
 
 <!--
+* [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
+* [Survival Techniques using Arduino & Raspberry Pi (Internet of Things)](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🦾
 
 <a href="https://www.linkedin.com/in/antonio-sanmateu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
