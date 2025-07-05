@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Software Engineer passionate about building secure, scalable systems
+I'm a Software Engineer passionate about building secure, scalable systems.
 
 In my current position at [Kertos](https://www.kertos.io/en), I architect LLM-powered features and telemetry systems using OSQuery agents, turning system behaviors into actionable security insights.
 
