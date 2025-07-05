@@ -41,9 +41,6 @@ class ToniStack:
 
 ---
 
-### 📊 GitHub Stats
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanmateu&theme=github_dark" />
 </p>
