@@ -4,15 +4,13 @@
 
 ---
 
-I'm a Software Engineer specializing in Python 🐍
-
-In my **current position** at [Kertos](https://kertos.io/), I implement full-stack scalable AI-powered features within a start-up product that automates data privacy and information security compliance operations. 
-
-In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashion B2B marketplace, I contributed to the development of APIs and the Orders & Payments microservices.
+I'm a Software Engineer passionate about building secure, scalable systems
+In my current position at [Kertos](https://www.kertos.io/en), I architect LLM-powered features and telemetry systems using OSQuery agents, turning system behaviors into actionable security insights.
+In my previous role at [JOOR]([https](https://www.joor.com/))'s leading luxury fashion B2B marketplace, I contributed to the development of APIs and the Orders & Payments microservices.
 
 ---
   
-### 🧰 This is my toolbox
+### 🧰 Tech Stack
 
 |  | Technologies |
 | ------------- | ----------- |
@@ -26,14 +24,15 @@ In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashio
 
 ---
 
-### 🌱 I’m currently learning
+### 🌱 Currently Exploring
 
 
 * [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) 🔐
-* [OSQuery Multi-platform Agents](https://osquery.readthedocs.io/en/latest/) 🔍
 * [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
+* [Survival Techniques using Arduino & Raspberry Pi (Internet of Things)](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🦾
 
 <!--
+
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
 * [Survival Techniques using Arduino & Raspberry Pi (Internet of Things)](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🦾
 
