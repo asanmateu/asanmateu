@@ -35,9 +35,9 @@ class ToniStack:
 ### 🌱 Currently Exploring  
 
 
-* [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) - Building secure AI applications
-* [System Design](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) - Distributed systems architecture
-* [Survival Techniques using Arduino & Raspberry Pi](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) - IoT Projects
+* [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) 🔒 - Building secure AI applications
+* [System Design](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) 🏗️ - Distributed systems architecture
+* [IoT Projects](https://www.amazon.com/Makers-Guide-Zombie-Apocalypse-Raspberry/dp/1593276672) 🔧 - Arduino & Raspberry Pi experiments
 
 ---
 
