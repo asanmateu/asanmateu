@@ -17,11 +17,12 @@ In my previous role at [JOOR](https://www.joor.com)'s leading luxury fashion B2B
 ```python
 class ToniStack:
     def __init__(self):
-        self.languages    = ["Python", "TypeScript", "JavaScript", "HTML"]
-        self.frameworks   = ["Django", "FastAPI", "React", "Celery"]
-        self.apis         = ["GraphQL", "REST", "OpenAI", "AWS Bedrock"]
-        self.data         = ["PostgreSQL", "SQLite", "Redis", "S3"]
-        self.devops       = ["Docker", "AWS", "Jenkins", "GitHub Actions"]
+        self.languages    = ["Python", "Go", "Bash", "TypeScript", "JavaScript", "HTML"]
+        self.frameworks   = ["Django", "Celery", "FastAPI", "React"]
+        self.apis         = ["GraphQL", "REST", "gRPC"]
+        self.ai           = ["OpenAI", "Anthropic", "AWS Bedrock", "LangChain"]
+        self.data         = ["PostgreSQL", "SQLite", "Redis", "S3", "Neo4j", "Pinecone"]
+        self.devops       = ["Docker", "AWS", "GitHub Actions", "Jenkins"]
         self.security     = ["OSQuery", "Burp Suite", "Kali"]
         self.monitoring   = ["Datadog", "Lens K8s", "Sentry"]
         self.development  = ["PyCharm", "VSCode", "Jupyter", "Postman"]
