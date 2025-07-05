@@ -45,13 +45,7 @@ class ToniStack:
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,docker,aws,postgres,redis&perline=8" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanmateu&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanmateu&theme=github_dark" />
 </p>
 
 ---
