@@ -31,7 +31,7 @@ In my **previous role** at [JOOR](https://www.joor.com/)'s leading luxury fashio
 
 * [LLM Security](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/) 🔐
 * [OSQuery Multi-platform Agents](https://osquery.readthedocs.io/en/latest/) 🔍
-* [Designing Data Intensive Applications (Software Architecture)](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
+* [Designing Data Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) ⚜️
 
 <!--
 * [Codigo Sostenible by Carlos Ble (Sustainable Code)](https://www.carlosble.com/publicaciones/?lang=es) 🪴
