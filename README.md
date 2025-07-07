@@ -18,7 +18,7 @@ In my previous role at [JOOR](https://www.joor.com)'s leading luxury fashion B2B
 class ToniStack:
     def __init__(self):
         self.languages    = ["Python", "Bash", "TypeScript", "JavaScript", "HTML"]
-        self.frameworks   = ["Django", "Celery", "FastAPI", "Flask", "React"]
+        self.frameworks   = ["Django", "Celery", "Strawberry", "FastAPI", "Apollo", "React"]
         self.apis         = ["GraphQL", "REST", "gRPC"]
         self.ai           = ["OpenAI", "Anthropic", "AWS Bedrock", "LangChain"]
         self.data         = ["PostgreSQL", "SQLite", "Redis", "S3", "Neo4j", "Pinecone"]
