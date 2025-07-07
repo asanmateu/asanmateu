@@ -20,7 +20,7 @@ class ToniStack:
         self.languages    = ["Python", "Bash", "TypeScript", "JavaScript", "HTML"]
         self.frameworks   = ["Django", "Celery", "Strawberry", "FastAPI", "Apollo", "React"]
         self.apis         = ["GraphQL", "REST", "gRPC"]
-        self.ai           = ["OpenAI", "Anthropic", "AWS Bedrock", "LangChain"]
+        self.ai           = ["LangChain", "OpenAI", "Anthropic", "AWS Bedrock"]
         self.data         = ["PostgreSQL", "SQLite", "Redis", "S3", "Neo4j", "Pinecone"]
         self.devops       = ["Docker", "AWS", "GitHub Actions", "Jenkins"]
         self.security     = ["OSQuery", "Burp Suite", "Kali"]
