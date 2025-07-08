@@ -28,7 +28,7 @@ class ToniStack:
         self.development  = ["PyCharm", "VSCode", "Jupyter", "Postman"]
         
     def current_focus(self):
-        return "Telemetry processing & AI-powered systems 🧠"
+        return "Telemetry exploitation & AI-powered security 🧠"
 ```
 
 ---
@@ -49,6 +49,6 @@ class ToniStack:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🏛️+Building+Reliable+Systems+🏛️;🐍+Python+Enthusiast+🐍;🕵️+Security+%26+AI+Explorer+🤖;🌱+Always+Learning+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🏛️+Building+Reliable+Systems;🐍+Python+Enthusiast;🤖+Security+%26+AI+Explorer;🌱+Always+Learning" alt="Typing SVG" />
 </p>
 
