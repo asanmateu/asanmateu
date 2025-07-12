@@ -43,7 +43,7 @@ class ToniStack:
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asanmateu&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com/?user=asanmateu&theme=dark" />
 </p>
 
 ---
