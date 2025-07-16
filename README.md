@@ -28,7 +28,7 @@ class ToniStack:
         self.development  = ["PyCharm", "VSCode", "Jupyter", "Postman"]
         
     def current_focus(self):
-        return "Telemetry exploitation & AI-powered security 🧠"
+        return "Telemetry exploitation & AI-powered systems 🧠"
 ```
 
 ---
