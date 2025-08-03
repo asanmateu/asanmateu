@@ -26,7 +26,7 @@ class ToniStack:
         self.security     = ["OSQuery", "Burp Suite", "Kali"]
         self.monitoring   = ["Datadog", "Lens K8s", "Sentry"]
         self.development  = ["PyCharm", "VSCode", "Jupyter", "Postman"]
-        self.iot          = ["Arduino"]
+        self.iot          = ["Arduino", "RaspberryPi"]
         
     def current_focus(self):
         return "Telemetry exploitation & AI-powered systems 🧠"
