@@ -6,7 +6,7 @@
 
 I'm passionate about engineering secure, scalable systems.
 
-In my current position at [Kertos](https://www.kertos.io/en), I architect LLM-powered features and telemetry systems using OSQuery agents, turning system behaviors into actionable security insights.
+At [Kertos](https://www.kertos.io/en), I architect LLM-powered features and telemetry systems using OSQuery agents, turning system behaviors into actionable security insights.
 
 In my previous role at [JOOR](https://www.joor.com)'s leading luxury fashion B2B marketplace, I contributed to the development of APIs and the Orders & Payments microservices.
 
