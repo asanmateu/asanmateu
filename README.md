@@ -22,9 +22,8 @@ class ToniStack:
         self.apis         = ["GraphQL", "REST", "gRPC"]
         self.ai           = ["LangChain", "OpenAI", "Anthropic", "AWS Bedrock"]
         self.data         = ["PostgreSQL", "SQLite", "Redis", "S3", "Neo4j", "Pinecone"]
-        self.devops       = ["Docker", "Kubernetes", "AWS", "ArgoCD"]
-        self.security     = ["OSQuery", "Kali"]
-        self.monitoring   = ["Sentry", "Datadog", "Lens K8s"]
+        self.devops       = ["Docker", "Kubernetes", "AWS", "ArgoCD", "Sentry", "Datadog", "Lens"]
+        self.security     = ["TLS", "IAM", "OSQuery", "Kali"]
         self.development  = ["PyCharm", "VSCode", "Postman", "Claude"]
         self.iot          = ["Arduino", "RaspberryPi"]
         
