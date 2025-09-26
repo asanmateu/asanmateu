@@ -7,11 +7,11 @@ const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
   stack: ['Python', 'Go', 'AWS', 'Kubernetes', 'Security', 'AI'],
-  focus: 'Telemetry exploitation & AI-powered systems'
+  focus: 'Telemetry ingestion scalability & AI-powered systems'
 }
 ```
 
-### In the Lab 🧪
+### Active Projects
 
 ```bash
 $ ls projects/
@@ -21,4 +21,4 @@ telemetry/    # OSQuery magic - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
 
-<sub>Open to interesting collaborations and discussions about distributed systems, security, or AI.</sub>
+<sub>💬 Distributed systems, security, open source – let's build something interesting</sub>
