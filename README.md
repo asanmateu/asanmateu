@@ -6,7 +6,7 @@ Software engineer focused on secure, scalable systems.
 const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
-  stack: ['Python', 'Bash', 'AWS', 'Kubernetes', 'Security', 'AI'],
+  stack: ['Python', 'Bash', "Go", 'AWS', 'Kubernetes', 'Security', 'AI'],
   focus: 'Telemetry ingestion scalability & AI-powered systems'
 }
 ```
