@@ -7,7 +7,7 @@ const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
   focus: 'Telemetry ingestion scalability & AI-powered systems',
-  stack: ['Python', 'Bash', "Go", 'AWS', 'Kubernetes', 'CyberSec', 'AI'],
+  stack: ['Python', 'Bash', "Go", 'AWS', 'Kubernetes', 'CyberSec', 'AI']
 }
 ```
 
