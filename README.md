@@ -16,7 +16,7 @@ const current = {
 ```bash
 $ ls projects/
 
-security/     # LLM guardrails - because AI can be safer
+security/     # LLM guardrails - because AI needs to be safer
 telemetry/    # OSQuery magic - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
