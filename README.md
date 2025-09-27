@@ -13,7 +13,7 @@ const current = {
 
 ### Active Projects
 
-```bash
+```powershell
 $ ls projects/
 
 security/     # LLM guardrails - because AI needs to be safer
