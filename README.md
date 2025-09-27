@@ -1,6 +1,6 @@
 ## Hi, I'm Toni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Software engineer focused on secure, scalable systems and automation.
+Software Engineer focused on secure, scalable systems and automation.
 
 ```javascript
 const current = {
