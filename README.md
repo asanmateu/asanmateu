@@ -6,8 +6,8 @@ Software Engineer focused on secure, scalable systems and automation.
 const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
-  focus: 'Telemetry ingestion scalability & AI-powered systems',
-  stack: ['Python', 'Bash', "Go", 'AWS', 'Kubernetes', 'CyberSec', 'AI']
+  focus: 'Learning about German power grid & graph modelling',
+  stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'Kubernetes']
 }
 ```
 
@@ -16,7 +16,7 @@ const current = {
 ```shell
 $ ls projects/
 
-security/     # LLM guardrails - because AI needs to be safer
+security/     # CompTIA Security+ prep
 telemetry/    # OSQuery intelligence - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
