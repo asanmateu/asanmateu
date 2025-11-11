@@ -7,7 +7,7 @@ const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
   focus: 'Learning about German power grid & graph modelling',
-  stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'Kubernetes']
+  stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'K8s']
 }
 ```
 
