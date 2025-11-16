@@ -16,6 +16,7 @@ const current = {
 ```shell
 $ ls projects/
 
+biohacking/          # Longevity hacks - drug discovery agents w/ @kkkravets
 security/     # CompTIA Security+ prep
 telemetry/    # OSQuery intelligence - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
