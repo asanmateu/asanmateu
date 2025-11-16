@@ -6,7 +6,7 @@ Software Engineer focused on secure, scalable systems and automation.
 const current = {
   role: 'LLMs and security telemetry systems @ Kertos',
   prev: 'Orders & payments microservice architecture @ JOOR',
-  focus: 'Learning about German power grid & graph theory',
+  focus: 'Learning about German power grid, graph theory, and industrial system security',
   stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'K8s']
 }
 ```
