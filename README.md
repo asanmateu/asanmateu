@@ -4,8 +4,8 @@ Software Engineer focused on secure, scalable systems and automation.
 
 ```javascript
 const current = {
-  role: 'LLMs and security telemetry systems @ Kertos',
-  prev: 'Orders & payments microservice architecture @ JOOR',
+  role: 'Grid Hub team @ Envelio',
+  prev: 'LLMs and security telemetry systems @ Kertos',
   focus: 'Learning about German power grid, graph theory, and industrial system security',
   stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'K8s']
 }
@@ -17,7 +17,6 @@ const current = {
 $ ls projects/
 
 biohacking/   # Longevity hacks - drug discovery agents w/ @kkkravets
-security/     # CompTIA Security+ prep
 telemetry/    # OSQuery intelligence - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
