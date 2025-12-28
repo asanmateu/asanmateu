@@ -6,7 +6,7 @@ Software Engineer focused on secure, scalable systems and automation.
 const current = {
   role: 'Intelligent grid platform development @ Envelio',
   prev: 'LLMs and security telemetry systems @ Kertos',
-  focus: 'Learning about German power grid',
+  focus: 'Learning about the Intelligent Grid Platform',
   stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'K8s']
 }
 ```
@@ -21,4 +21,4 @@ telemetry/    # OSQuery intelligence - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
 
-<sub>💬 I love exploring new ideas and building cool things – reach out if you want to collaborate!</sub>
+<sub>💬 always curious, always learning – happy to collaborate or just chat about interesting ideas!</sub>
