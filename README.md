@@ -21,4 +21,4 @@ telemetry/    # OSQuery intelligence - talk to your devices
 hardware/     # RPi + Arduino - zombi apolcalypse survival
 ```
 
-<sub>💬 distributed systems, security, AI, open source – let's build something interesting!</sub>
+<sub>💬 I love exploring new ideas and building cool things – reach out if you want to collaborate!</sub>
