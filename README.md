@@ -11,8 +11,6 @@ const current = {
 }
 ```
 
-### Projects
-
 ```shell
 $ ls projects/
 
