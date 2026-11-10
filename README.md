@@ -6,7 +6,6 @@ Software Engineer focused on secure, scalable systems and automation.
 const current = {
   role: 'Intelligent grid platform development @ Envelio',
   prev: 'LLMs and security telemetry systems @ Kertos',
-  focus: 'Visualising connected components',
   stack: ['Python', 'Bash', 'CyberSec', 'AI', 'AWS', 'K8s']
 }
 ```
