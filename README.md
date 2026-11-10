@@ -1,6 +1,6 @@
 ## Hi, I'm Toni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I 💙 problem solving, ideation, and strategy.
+I solve problems, generate ideas, and design strategies.
 
 ```javascript
 const current = {
